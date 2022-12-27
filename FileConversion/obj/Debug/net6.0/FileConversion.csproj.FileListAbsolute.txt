@@ -1,0 +1,12 @@
+C:\Users\Михаил\source\repos\FileConversion\bin\Debug\net6.0\FileConversion.deps.json
+C:\Users\Михаил\source\repos\FileConversion\bin\Debug\net6.0\FileConversion.dll
+C:\Users\Михаил\source\repos\FileConversion\bin\Debug\net6.0\FileConversion.pdb
+C:\Users\Михаил\source\repos\FileConversion\obj\Debug\net6.0\FileConversion.csproj.AssemblyReference.cache
+C:\Users\Михаил\source\repos\FileConversion\obj\Debug\net6.0\FileConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\source\repos\FileConversion\obj\Debug\net6.0\FileConversion.AssemblyInfoInputs.cache
+C:\Users\Михаил\source\repos\FileConversion\obj\Debug\net6.0\FileConversion.AssemblyInfo.cs
+C:\Users\Михаил\source\repos\FileConversion\obj\Debug\net6.0\FileConversion.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\FileConversion\obj\Debug\net6.0\FileConversion.dll
+C:\Users\Михаил\source\repos\FileConversion\obj\Debug\net6.0\refint\FileConversion.dll
+C:\Users\Михаил\source\repos\FileConversion\obj\Debug\net6.0\FileConversion.pdb
+C:\Users\Михаил\source\repos\FileConversion\obj\Debug\net6.0\ref\FileConversion.dll
